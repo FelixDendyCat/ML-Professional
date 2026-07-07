@@ -13,4 +13,4 @@
 7. [Предобработка и токенизация](homework_07/README.md)
 8. [Архитектура BERT](homework_08/README.md)
 9. [Анализ временных рядов](homework_09/README.md)
-10. [](homework_10/README.md)
+10. [Рекомендательная система](homework_10/README.md)
