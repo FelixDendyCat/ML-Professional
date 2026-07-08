@@ -5,7 +5,7 @@
 **Список домашних заданий:**
 
 1. [Градиентный бустинг](homework_01/README.md)
-2. [Обучение без учителя](homework_02/README.md)
+2. [Кластеризация](homework_02/README.md)
 3. [Поиск аномалий в данных](homework_03/README.md)
 4. [Алгоритмы на графах](homework_04/README.md)
 5. [Обучение нейронных сетей](homework_05/README.md)
